@@ -9,7 +9,7 @@ Create a `switch` statement that prints a different statement for each color opt
 ### Create a variable called `color` and print the following sentence for each `color`:
 
     -   "red" => print "Q1: Red's a great color on you."
-    -   "blue" => print "Q1: Blue? Great choice."
+    -   "blue" => print "Q1: Red's a great color on you."
     -   "green" => print "Q1: Ok. Green it is."
     -   "yellow" => print "Q1: Not what I would have picked, but yellow is fine."
     -   if the value is none of the above => print "Q1: The aim of the game is to pick a color."
